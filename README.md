@@ -36,7 +36,10 @@ Random module (for computer moves)
 A beginner-friendly project to practice conditional statements, loops, and basic game logic while building something fun and interactive.
 
 🏆Score rules
+
 user wins: user gets +1
+
 computer wins: computer gets +1
+
 draw: both get +1
 
